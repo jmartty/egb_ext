@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "EGB+",
+  "version": "0.1.0",
+  "description": "EGB Enhancer",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://egb.com/*"]
+  }]
+
+}

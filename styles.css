@@ -1,0 +1,17 @@
+.has-already-bet .bet-rate--already-bet {
+    background-color: #dcdcdc;
+    color: black;
+}
+
+.has-already-bet .table-expand--already-bet {
+    background-color: #dcdcdc;
+    color: black;
+}
+
+.color3 {
+	color: red !important;
+}
+
+.color2 {
+	color: greenyellow !important;
+}
